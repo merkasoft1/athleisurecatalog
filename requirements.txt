@@ -1,0 +1,2 @@
+#requirements.txtx
+snowflake-connector-python
